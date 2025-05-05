@@ -1,0 +1,50 @@
+[
+    {
+        "month": "January",
+        "bookings": 3280
+    },
+    {
+        "month": "February",
+        "bookings": 3010
+    },
+    {
+        "month": "March",
+        "bookings": 3550
+    },
+    {
+        "month": "April",
+        "bookings": 3435
+    },
+    {
+        "month": "May",
+        "bookings": 3700
+    },
+    {
+        "month": "June",
+        "bookings": 3850
+    },
+    {
+        "month": "July",
+        "bookings": 4220
+    },
+    {
+        "month": "August",
+        "bookings": 4080
+    },
+    {
+        "month": "September",
+        "bookings": 3775
+    },
+    {
+        "month": "October",
+        "bookings": 3580
+    },
+    {
+        "month": "November",
+        "bookings": 3390
+    },
+    {
+        "month": "December",
+        "bookings": 4020
+    }
+]

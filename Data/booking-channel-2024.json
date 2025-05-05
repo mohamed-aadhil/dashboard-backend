@@ -1,0 +1,22 @@
+[
+    {
+        "channel": "Website",
+        "bookings": 14450
+    },
+    {
+        "channel": "Mobile App",
+        "bookings": 11850
+    },
+    {
+        "channel": "Travel Agent",
+        "bookings": 4950
+    },
+    {
+        "channel": "Corporate Portal",
+        "bookings": 3500
+    },
+    {
+        "channel": "Call Center",
+        "bookings": 2200
+    }
+]
