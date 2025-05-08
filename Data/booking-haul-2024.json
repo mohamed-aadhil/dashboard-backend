@@ -1,0 +1,18 @@
+[
+    {
+        "haulType": "Short Haul",
+        "bookings": 3500
+    },
+    {
+        "haulType": "Medium Haul",
+        "bookings": 2400  
+    },
+    {
+        "haulType": "Long Haul",
+        "bookings": 1800
+    },
+    {
+        "haulType": "Ultra Long Haul",
+        "bookings": 800
+    }
+]

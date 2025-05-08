@@ -29,5 +29,19 @@ namespace dashboard_backend.Controllers
             return Content(json, "application/json");
         }
 
+        [HttpGet("Haul")]
+  
+        public IActionResult GetBookingsHaulTrend([FromQuery] int year)
+
+
+        {
+            var path = $"Data/booking-haul-{year}.json";
+            if (!System.IO.File.Exists(path))
+                return NotFound();
+
+            var json = System.IO.File.ReadAllText(path);
+            return Content(json, "application/json");
+        }
+
     }
 }
